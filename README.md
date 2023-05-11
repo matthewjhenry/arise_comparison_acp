@@ -1,5 +1,4 @@
-# arise_comparison_acp
-Code to reproduce the figures in "Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy" by Henry et al.
+### Code to reproduce the figures in "Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy" by Henry et al.
 
 Amoc_fig for the AMOC figure.
 Extremes_fig for the Extremes figure.
